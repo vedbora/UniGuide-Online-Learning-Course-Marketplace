@@ -1,4 +1,4 @@
-# 🎓 UniGuide - Online Learning Course Marketplace
+# 🎓 UniGuide
 
 UniGuide is a full-featured A smart and visually stunning career planning platform built for students, by students.**  
 
