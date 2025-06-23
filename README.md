@@ -2,6 +2,8 @@
 
 UniGuide is a full-featured A smart and visually stunning career planning platform built for students, by students.**  
 
+# Deployment 
+https://gilded-elf-7bcbb6.netlify.app
 
 ---
 
@@ -42,6 +44,4 @@ UniGuide is a full-featured A smart and visually stunning career planning platfo
 
 ---
 
-#Deployment 
-https://gilded-elf-7bcbb6.netlify.app
 
